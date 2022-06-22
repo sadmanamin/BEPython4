@@ -1,4 +1,4 @@
 psycopg2-binary
 flask
-# Flask-SQLAlchemy==2.5.1
-# flask-migrate
+Flask-SQLAlchemy
+flask-migrate

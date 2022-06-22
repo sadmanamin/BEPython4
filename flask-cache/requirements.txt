@@ -1,0 +1,8 @@
+flask
+Flask-SQLAlchemy
+flask-migrate
+psycopg2-binary
+python-dotenv
+flask-caching
+redis
+celery==5.2.0
